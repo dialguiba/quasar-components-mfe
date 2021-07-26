@@ -1,0 +1,1 @@
+(self["webpackChunkquasar_components_js"]=self["webpackChunkquasar_components_js"]||[]).push([[734],{9734:(n,s,t)=>{"use strict";t.r(s),t.d(s,{default:()=>o});var e=t(3673);function u(n,s,t,u,a,o){return(0,e.wg)(),(0,e.j4)("button",null,"test")}const a=(0,e.aZ)({name:"Button",props:{}});a.render=u;const o=a}}]);
